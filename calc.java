@@ -13,7 +13,7 @@ public static int add(int a, int b){
 
 public static void main(String[] args){
   System.out.println(add(80,20));
- System.out.println(add(80,20));
+ System.out.println(sub(80,20));
 }
 
  
